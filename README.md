@@ -13,3 +13,7 @@ DIAGRAMA DE CLASES:
 <img width="1140" height="2652" alt="Espacio de trabajo sin título (1)" src="https://github.com/user-attachments/assets/f100c210-521a-417b-8195-be7d36c2bcae" />
 
 DIAGRAMA DE CASOS DE USO:
+<img width="857" height="580" alt="image" src="https://github.com/user-attachments/assets/ebe40a81-8c37-4774-a0cd-06487ced7ff2" />
+<img width="1128" height="708" alt="Captura de pantalla 2025-09-21 234556" src="https://github.com/user-attachments/assets/759018c9-2bba-4b96-bea6-0b5d2781cce8" />
+
+
