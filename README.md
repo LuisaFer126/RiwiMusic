@@ -1,2 +1,9 @@
 # RiwiMusic
-A C# system capable of managing concerts and their clients
+A C# system capable of managing concerts and their clients.
+
+Justificación de la POO:
+En este proyecto, aplicamos la Programación Orientada a Objetos (POO) para organizar y estructurar el código de una manera más lógica y modular. La POO se basa en cuatro pilares principales: encapsulamiento, herencia, polimorfismo y abstracción. Aunque no usamos todos, los conceptos clave aquí son la abstracción y el encapsulamiento.
+
+Abstracción: Creamos clases como Admin, Concierto, Cliente, Tiket e HistorialCompra que representan entidades del mundo real. Estas clases no son solo variables; son "plantillas" o "modelos" que encapsulan tanto los datos (atributos) como las acciones (métodos) que se pueden realizar con ellos. Por ejemplo, la clase Concierto abstrae la idea de un concierto, incluyendo sus propiedades (como nombre, ciudad y fechaConcierto) y sus comportamientos (listarConciertos).
+
+Encapsulamiento: Agrupamos los datos (atributos) y los métodos que operan sobre esos datos en una sola unidad: la clase. Por ejemplo, en la clase Cliente, los atributos como id, nombre, email, etc., están encapsulados con métodos como registrar() y editarCliente(). Esto protege los datos de ser manipulados directamente y asegura que solo se pueda acceder a ellos a través de los métodos definidos en la clase. Esto ayuda a mantener la integridad y la consistencia de la información.
