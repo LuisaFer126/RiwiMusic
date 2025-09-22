@@ -7,3 +7,9 @@ En este proyecto, aplicamos la Programación Orientada a Objetos (POO) para orga
 Abstracción: Creamos clases como Admin, Concierto, Cliente, Tiket e HistorialCompra que representan entidades del mundo real. Estas clases no son solo variables; son "plantillas" o "modelos" que encapsulan tanto los datos (atributos) como las acciones (métodos) que se pueden realizar con ellos. Por ejemplo, la clase Concierto abstrae la idea de un concierto, incluyendo sus propiedades (como nombre, ciudad y fechaConcierto) y sus comportamientos (listarConciertos).
 
 Encapsulamiento: Agrupamos los datos (atributos) y los métodos que operan sobre esos datos en una sola unidad: la clase. Por ejemplo, en la clase Cliente, los atributos como id, nombre, email, etc., están encapsulados con métodos como registrar() y editarCliente(). Esto protege los datos de ser manipulados directamente y asegura que solo se pueda acceder a ellos a través de los métodos definidos en la clase. Esto ayuda a mantener la integridad y la consistencia de la información.
+
+
+DIAGRAMA DE CLASES:
+<img width="1140" height="2652" alt="Espacio de trabajo sin título (1)" src="https://github.com/user-attachments/assets/f100c210-521a-417b-8195-be7d36c2bcae" />
+
+DIAGRAMA DE CASOS DE USO:
